@@ -1,0 +1,10 @@
+body,
+.desc,
+.links {
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.desc {
+  font-size: 20px;
+}
